@@ -1,5 +1,9 @@
 import CalculadoraDto from './index.dto';
 
+/**
+ * Calculadora realiza operaciones básicas:
+ * - división
+ */
 export default class Calculadora implements CalculadoraDto {
   /**
    * Divide dos números entre si y devuelve el resultado.
