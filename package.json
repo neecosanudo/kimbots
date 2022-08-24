@@ -1,7 +1,7 @@
 {
-  "name": "plantilla-typescript",
-  "version": "0.2.0",
-  "description": "Plantilla en TypeScript para proyectos sencillos.",
+  "name": "kimbots",
+  "version": "0.3.0",
+  "description": "KimboTS es un framework no-web que pretende brindar un entorno con pruebas unitarias y buenas prácticas a personas que estén iniciando en TypeScript.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -38,7 +38,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run test && npm run prettier-format && npm run lint"
+      "pre-commit": "npm run test && npm run prettier:format && npm run lint"
     }
   },
   "type": "commonjs",
