@@ -45,7 +45,7 @@ Esta sección explica como descargar e instalar *KimboTS*, y te dará un panoram
 
 Si quieres empezar a utilizar el *framework*, ve a [esta sección](#recomendación-de-flujo-de-trabajo).
 
-> Aclaración: revisa los [requisitos para ejecutar el código](##requisitos-del-sistema).
+> Aclaración: revisa los [requisitos para ejecutar el código](#requisitos-del-sistema).
 
 ****
 
