@@ -4,7 +4,7 @@
 
 > <u>Aclaración</u>: el proyecto está en construcción y su documentación también. 
 >
-> Consulta la sección de [planificación](#planificado) para saber más.
+> Consulta la sección de [planificación](#proyección-planificada) para saber más.
 
 ## Alcance de la documentación
 
@@ -45,7 +45,7 @@ Esta sección explica como descargar e instalar *KimboTS*, y te dará un panoram
 
 Si quieres empezar a utilizar el *framework*, ve a [esta sección](#recomendación-de-flujo-de-trabajo).
 
-> Aclaración: revisa los [requisitos para ejecutar el código](#requisitos-necesarios).
+> Aclaración: revisa los [requisitos para ejecutar el código](##requisitos-del-sistema).
 
 ****
 

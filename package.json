@@ -1,6 +1,6 @@
 {
   "name": "kimbots",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "KimboTS es un framework no-web que pretende brindar un entorno con pruebas unitarias y buenas prácticas a personas que estén iniciando en TypeScript.",
   "main": "index.js",
   "scripts": {
