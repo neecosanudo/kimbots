@@ -1,4 +1,12 @@
-# KimboTS
+# Deprecated
+
+KimboTS nació como una plantilla para hacer ejercicios de algoritmos y evolucionó a dar esa posibilidad como framework. El proyecto necesita un reinicio por su nuevo enfoque.
+
+Este repositorio sigue siendo utilizable como plantilla. Eres libre de utilizarla a tu gusto. 
+
+Happy coding! 
+
+## KimboTS: documentación original
 
 *KimboTS* es un framework no-web que pretende brindar un entorno con pruebas unitarias y buenas prácticas a personas que estén iniciando en TypeScript.
 
@@ -417,7 +425,7 @@ Las extensiones de [Prettier](https://marketplace.visualstudio.com/items?itemNam
 
 ## Proyección planificada
 
-La siguiente lista menciona la proyección de lo que se va a implementar en la plantilla:
+La siguiente lista menciona la proyección de lo que se va a implementar en *KimboTS*:
 
 - [ ] Aplicar Docker al proyecto.
 - [ ] Extracción de documentación en código.
